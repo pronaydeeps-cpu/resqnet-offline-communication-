@@ -397,31 +397,8 @@ Next task
 
 ---
 
-# 👥 Project Team
 
-### Students
 
-**Nayan Jyoti Athporia**  
-MCA/25/017
-
-**Nirmal Jyoti Thakuria**  
-MCA/25/018
-
-**Pranaydeep Sarkar**  
-MCA/25/26
-
-### Project Guide
-
-**Dr. Nelson Varte**
-
-### Department
-
-**Department of Computer Applications**  
-**Assam Engineering College**
-
-### Academic Session
-
-**2025–2027**
 
 ---
 
@@ -575,10 +552,6 @@ paper/
 
 # 🤝 Contribution
 
-This repository is primarily an academic research and MCA project repository.
-
-Development contributions from the project team should follow the documented architecture, research objectives, and experimental methodology.
-
 For significant changes, document:
 
 1. What changed
@@ -611,6 +584,6 @@ License: **To be finalized**
   Node-to-Node Offline Communication for Disaster Areas
 </p>
 
-<p align="center">
-  Assam Engineering College • Department of Computer Applications • 2025–2027
-</p>
+Author
+
+PronaydeepSarkar

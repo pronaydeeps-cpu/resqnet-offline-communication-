@@ -12,7 +12,7 @@
 
 ## 📌 Project Overview
 
-**ResQNet** is an MCA research and prototype project that explores **node-to-node offline communication** between Android devices when conventional communication infrastructure is unavailable or unreliable.
+**ResQNet** is a research and prototype project that explores **node-to-node offline communication** between Android devices when conventional communication infrastructure is unavailable or unreliable.
 
 The project focuses on a decentralized communication model in which every participating device acts as a **communication node**. A node can originate a message, receive messages from nearby nodes, and relay messages toward other nodes.
 
